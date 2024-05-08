@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Lenny</h1>
-<img style="display: block; margin-right: auto; margin-left: auto; width: 50%" alt="ascii" src="./gif2.gif" />
+<p align="center">
+  <img width="500" alt="ascii" src="./gif2.gif" />
+</p>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garnierlenny" alt="garnierlenny" /></a> </p>
