@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Lenny</h1>
+<img align="center" src="https://www.pythonanywhere.com/user/Lenny00/files/home/Lenny00/mysite/gif2.gif" />
 <h3 align="center">A passionate fullstack developer from France</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garnierlenny" alt="garnierlenny" /></a> </p>
