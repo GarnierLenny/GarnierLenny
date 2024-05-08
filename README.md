@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Lenny</h1>
 <p align="center">
-  <img width="500" alt="ascii" src="./gif2.gif" />
+  <img width="350" alt="ascii" src="./gif2.gif" />
 </p>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
