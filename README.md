@@ -3,6 +3,10 @@
   <i>Fullstack Engineer — AI products & scalable backends</i>
 </p>
 
+<p align="center">
+  <img width="350" alt="ascii" src="./gif2.gif" />
+</p>
+
 ---
 
 ## What I build
@@ -16,6 +20,8 @@ I build products that are meant to work — not just demos.
 ---
 
 ## Featured project
+
+zz
 
 ### MonAmiChef 🍳
 
