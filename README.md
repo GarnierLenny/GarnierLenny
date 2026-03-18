@@ -1,8 +1,7 @@
-<h1 align="center">Hello! I'm Lenny</h1>
+<h1 align="center">Hello! I'm Lenny 🌋</h1>
 <p align="center">
-  <i>Fullstack Engineer — AI products & scalable backends</i>
+  <i>Fullstack Engineer, building AI products & scalable backends</i>
 </p>
-
 <p align="center">
   <img width="350" alt="ascii" src="./gif2.gif" />
 </p>
@@ -11,7 +10,7 @@
 
 ## What I build
 
-I build products that are meant to work — not just demos.
+I build products that are meant to work, not just demos.
 
 - AI SaaS MVPs (idea → production)
 - Reliable AI systems (structured outputs, validation)
@@ -20,8 +19,6 @@ I build products that are meant to work — not just demos.
 ---
 
 ## Featured project
-
-zz
 
 ### MonAmiChef 🍳
 
@@ -38,7 +35,7 @@ AI cooking assistant designed for **predictable and usable outputs**.
 
 ## Approach
 
-AI is powerful — but unreliable systems break fast.
+AI is powerful but unreliable systems break fast.
 
 I focus on:
 
